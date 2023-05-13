@@ -1,0 +1,57 @@
+
+.welcome {
+    padding-top: 45px;
+    color: #e235a9bd;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+}
+.panel {
+    opacity: 0.9;
+    background-color: #FFFFFF;
+    width: 500px;
+    height: 500px;
+    margin: 8em auto;
+    border-radius: 1.5em;
+    box-shadow: 0px 11px 35px 2px rgba(17, 17, 17, 0.14);
+}
+body {
+    font-family: sans-serif;
+}
+
+.box {
+width: 76%;
+color: rgb(57, 96, 116);
+font-size: 14px;
+letter-spacing: 1px;
+background: rgba(86, 65, 65, 0.04);
+padding: 14px 22px;
+box-sizing: border-box;
+border: 2px solid rgba(0, 0, 0, 0.02);
+margin-bottom: 50px;
+margin-left: 46px;
+text-align: center;
+
+font-family:  sans-serif;
+font-weight: 600;
+}
+
+form.form1 {
+    padding-top: 50px;
+}
+
+.submit {
+    
+    color: #fff;
+    background: linear-gradient(to right, #9C27B0, #E040FB);
+    padding-right: 40px;
+    padding-left: 40px;
+    font-family: sans-serif;
+    margin-left: 35%;
+    font-size: 15px;
+    padding-left: 43px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    box-shadow: 0 0 20px 1px rgba(42, 39, 39, 0.04);
+}
+    
